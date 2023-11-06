@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraWebForms", "CalculadoraWebForms\CalculadoraWebForms.csproj", "{FD47F26C-5F48-4680-835D-BFB0C491E02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD47F26C-5F48-4680-835D-BFB0C491E02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD47F26C-5F48-4680-835D-BFB0C491E02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD47F26C-5F48-4680-835D-BFB0C491E02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD47F26C-5F48-4680-835D-BFB0C491E02F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BBF933-896D-41D5-A18C-F85E5A81ACC5}
+	EndGlobalSection
+EndGlobal
